@@ -1,0 +1,30 @@
+﻿<Window x:Class="ParameterScannerRevit.UI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             Height="350" Width="400"
+             WindowStartupLocation="CenterScreen"
+             Loaded="Window_Loaded"
+             Title="Parameter Scanner"
+             ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Image Grid.Row="0" Margin="155,10,155,10" Stretch="Uniform" Source="images/icon64.png" />
+
+        <Label Grid.Row="1" Content="Parameter Name:" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Foreground="Black" Margin="10,0,250,0" Height="50" VerticalAlignment="Center"></Label>
+        <TextBox Grid.Row="1" Name="TxtName" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Black" Margin="155,10,30,10"></TextBox>
+        <Label Grid.Row="2" Content="Parameter Value:" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Foreground="Black" Margin="10,0,250,0" Height="50" VerticalAlignment="Center"></Label>
+        <TextBox Grid.Row="2" Name="TxtValue" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="Black" Margin="155,10,30,10"></TextBox>
+        <Button Grid.Row="3" Name="BtnIsolate" Content="Isolate in View" HorizontalContentAlignment="Center" Foreground="Black" Margin="30,0,230,0" Height="50" VerticalAlignment="Center" Click="BtnIsolate_Click"></Button>
+        <Button Grid.Row="3" Name="BtnSelect" Content="Select" HorizontalContentAlignment="Center" Foreground="Black" Margin="230,0,30,0" Height="50" Click="BtnSelect_Click"></Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,240 @@
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.pdb
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIUI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PersistenceDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UtilityAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GraphicsAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GeomUtilAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\FamilyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\HostObjDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SiteDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SculptingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RebarDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MassingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DPartDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\NumberingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StairRampDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MaterialDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DBManagedServices.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdWindows.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIInterop.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFramework.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AddInManager.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DesktopMFCAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitMFCAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFrameworkServices.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ManagedMC3.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPI.xml
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIUI.xml
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.xml
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CopyComplete
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\Dev\projetos\Parameter Scanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.pdb
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.pdb
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIUI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PersistenceDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UtilityAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GraphicsAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GeomUtilAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\FamilyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\HostObjDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SiteDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SculptingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RebarDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MassingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DPartDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\NumberingDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StairRampDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MaterialDBAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DBManagedServices.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdWindows.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIInterop.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFramework.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AddInManager.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DesktopMFCAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitMFCAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailUIAPI.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFrameworkServices.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ManagedMC3.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPI.xml
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIUI.xml
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.xml
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\UI.baml
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\UI.g.cs
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit_MarkupCompile.cache
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.g.resources
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CopyComplete
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.pdb
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.pdb
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdpSDKCSharpWrapper.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PersistenceDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UtilityAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GraphicsAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\GeomUtilAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\FamilyDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\HostObjDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SiteDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\SculptingDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RebarDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MassingDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DPartDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\NumberingDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\StairRampDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\MaterialDBAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DBManagedServices.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AdWindows.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIInterop.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFramework.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\AddInManager.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitUIAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DesktopMFCAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\APIUIAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitMFCAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EssentialsUIAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\DetailUIAPI.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\UIFrameworkServices.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ManagedMC3.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Themes.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\Autodesk.UI.Windows.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPI.xml
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAPIUI.xml
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\RevitAddInUtility.xml
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\UI.baml
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\UI.g.cs
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit_MarkupCompile.cache
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.g.resources
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.csproj.CopyComplete
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.dll
+C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\obj\Debug\ParameterScannerRevit.pdb
