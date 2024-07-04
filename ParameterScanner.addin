@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ParameterScanner</Name>
+    <Assembly>C:\Users\Anderson\Desktop\anderson\Dev\projetos\ParameterScanner\ParameterScannerRevit\ParameterScannerRevit\bin\Debug\ParameterScannerRevit.dll</Assembly>
+    <AddInId>35e93097-0dea-47fb-8d91-c078ffa78f00</AddInId>
+    <FullClassName>ParameterScannerRevit.Class1</FullClassName>
+    <VendorId>AB</VendorId>
+    <VendorDescription>Anderson Brischiliari</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterScannerRevit", "ParameterScannerRevit\ParameterScannerRevit.csproj", "{E9F17E35-6DE0-4C02-A563-E33927F4E7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F17E35-6DE0-4C02-A563-E33927F4E7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F17E35-6DE0-4C02-A563-E33927F4E7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F17E35-6DE0-4C02-A563-E33927F4E7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F17E35-6DE0-4C02-A563-E33927F4E7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54119561-48A5-437B-B479-EB7B5F88FBFE}
+	EndGlobalSection
+EndGlobal
